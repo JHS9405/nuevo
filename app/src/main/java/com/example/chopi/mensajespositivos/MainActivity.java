@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     int ban = 0;
+    int x = -1;
 
 
     private TextView textView;
