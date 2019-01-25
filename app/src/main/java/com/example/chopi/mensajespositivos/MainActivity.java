@@ -59,8 +59,8 @@ public class MainActivity extends AppCompatActivity {
          }
          else{
              ban = n;
+             textView.setText(mensajes[ban]);
          }
-         textView.setText(mensajes[ban]);
      }
 
 
